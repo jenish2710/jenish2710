@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jenish2710
-- 👀 I’m interested in developing new design and webiste
+- 👀 I’m interested in developing new design, system design , templates and webiste for product and marketing.
 - 🌱 I’m currently learning react native. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on photo shoot, video editing , photo manipulation and product marketing.
+- (^///^) I'm happy to help you with any design and to get the best out of the designed product.
 - 📫 How to reach me on dinesh.d.gamit@gmail.com
 
 <!---
